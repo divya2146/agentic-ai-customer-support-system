@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "user_id": "1001",
+        "issue": "fraud",
+        "department": "Security",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 2,
+        "user_id": "1002",
+        "issue": "payment failed",
+        "department": "Billing",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 3,
+        "user_id": "1003",
+        "issue": "login issue",
+        "department": "Technical",
+        "priority": "Medium",
+        "status": "Open"
+    },
+    {
+        "id": 4,
+        "user_id": "1004",
+        "issue": "refund request",
+        "department": "Billing",
+        "priority": "Medium",
+        "status": "Open"
+    },
+    {
+        "id": 5,
+        "user_id": "1005",
+        "issue": "fraud detected",
+        "department": "Security",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 6,
+        "user_id": "1006",
+        "issue": "payment pending",
+        "department": "Billing",
+        "priority": "Medium",
+        "status": "Open"
+    },
+    {
+        "id": 7,
+        "user_id": "1007",
+        "issue": "technical error",
+        "department": "Technical",
+        "priority": "Low",
+        "status": "Open"
+    },
+    {
+        "id": 8,
+        "user_id": "1008",
+        "issue": "refund delayed",
+        "department": "Billing",
+        "priority": "Medium",
+        "status": "Open"
+    },
+    {
+        "id": 9,
+        "user_id": "1009",
+        "issue": "product missing",
+        "department": "Support",
+        "priority": "Low",
+        "status": "Open"
+    },
+    {
+        "id": 10,
+        "user_id": "1010",
+        "issue": "page hanging",
+        "department": "Technical",
+        "priority": "Medium",
+        "status": "Open"
+    },
+    {
+        "id": 11,
+        "user_id": "121",
+        "issue": "broken",
+        "department": "General",
+        "priority": "Low",
+        "status": "Open"
+    }
+]

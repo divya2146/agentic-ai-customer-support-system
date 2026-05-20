@@ -1,0 +1,11 @@
+id,user_id,issue,department,priority,status
+1,user1,fraud,Security,High,Open
+2,user1,payment failed,Billing,High,Open
+3,user1,login issue,Technical,Medium,Open
+4,user1,refund request,Billing,Medium,Open
+5,user1,fraud detected,Security,High,Open
+6,user1,payment pending,Billing,Medium,Open
+7,user1,technical error,Technical,Low,Open
+8,user1,refund delayed,Billing,Medium,Open
+9,user1,product missing,Support,Low,Open
+10,user1,page hanging,Technical,Medium,Open

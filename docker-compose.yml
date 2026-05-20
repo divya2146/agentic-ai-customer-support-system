@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+
+  backend:
+
+    build: ./support_ai_v2/backend
+
+    ports:
+      - "8000:8000"
+
+    volumes:
+      - ./support_ai_v2/backend:/app
+
+  frontend:
+
+    build: ./support_ai_v2/frontend
+
+    ports:
+      - "8501:8501"
+
+    depends_on:
+      - backend
+
+    volumes:
+      - ./support_ai_v2/frontend:/app

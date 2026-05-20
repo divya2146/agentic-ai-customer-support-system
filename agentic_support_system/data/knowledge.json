@@ -1,0 +1,14 @@
+[
+  {
+    "question": "login issue",
+    "answer": "Please reset your password and clear browser cache."
+  },
+  {
+    "question": "refund policy",
+    "answer": "Refunds are processed within 5-7 business days."
+  },
+  {
+    "question": "payment failed",
+    "answer": "Please verify card details or try another payment method."
+  }
+]
