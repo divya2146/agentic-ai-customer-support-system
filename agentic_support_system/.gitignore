@@ -1,48 +1,41 @@
-# Python
+# Virtual environments
+venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Virtual Environment
-venv/
-.env/
+# Environment variables
+.env
 
-# Database
+# Databases
 *.db
 *.sqlite3
 
-# VS Code
-.vscode/
+# Logs
+*.log
 
-# Streamlit
-.streamlit/
+# Temporary files
+temp/
+tmp/
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-
-# Cache
-.pytest_cache/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Build
-dist/
-build/
-
-# Environment Variables
-.env
+# VS Code
+.vscode/
 
 # Model files
 *.pkl
 *.joblib
 
-# Temporary files
-temp/
+# Streamlit cache
+.streamlit/
 
-*.db
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.tar
